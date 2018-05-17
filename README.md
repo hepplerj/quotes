@@ -55,3 +55,48 @@
 > The quest for certainty blocks the search for meaning. Uncertainty is the very condition to impel man to unfold his powers.
 
 - [Eric Fromm](https://en.wikipedia.org/wiki/Erich_Fromm)
+
+---
+
+> You cannot get a simple system by adding simplicity to a complex system.
+
+- <http://erlang.org/pipermail/erlang-questions/2012-March/065087.html>
+
+---
+
+> And that's why Chess and Go remain as enduringly popular as they are, and why soccer is the most popular game on earth. Robustness and elegance are the key driving forces here, and they are in direct opposition to the brittleness and complexity, the defining traits of story.
+
+- Tadhg Kelly, *[Stories, Structure, Abstraction and Games](http://particleblog.blogspot.com/2006/07/stories-structure-abstraction-and.html)*
+
+---
+
+> What is above all needed is to let the meaning choose the word, and not the other way around. In prose, the worst thing one can do with words is surrender to them. When you think of a concrete object, you think wordlessly, and then, if you want to describe the thing you have been visualising you probably hunt about until you find the exact words that seem to fit it. When you think of something abstract you are more inclined to use words from the start, and unless you make a conscious effort to prevent it, the existing dialect will come rushing in and do the job for you, at the expense of blurring or even changing your meaning. Probably it is better to put off using words as long as possible and get one's meaning as clear as one can through pictures and sensations. Afterward one can choose -- not simply accept -- the phrases that will best cover the meaning, and then switch round and decide what impressions one's words are likely to make on another person.
+
+- George Orwell, *Politics and the English Language*
+
+---
+
+> [This argument] fixes its attention on the forms of human conversation, and postulates that how we are obliged to conduct such conversations will have the strongest possible influence on what ideas we can conveniently express. And what ideas are convenient to express inevitably become the important content of a culture.
+
+- Neil Postman, *Amusing Ourselves to Death*
+
+---
+
+> We must remember that Galileo merely said that the language of nature is written in mathematics. He did not say everything is. And even the truth about nature need not be expressed in mathematics. For most of human history, the language of nature has been the language of myth and ritual. These forms, one might add, had the virtues of leaving nature unthreatened and of encouraging the belief that human beings are part of it. It hardly befits a people who stand ready to blow up the planet to praise themselves too vigorously for having found the true way to talk about nature.
+
+- Neil Postman, *Amusing Ourselves to Death*
+
+---
+
+> Now, I have no doubt that playing today's games does in fact improve your visual intelligence and your manual dexterity, but the virtues of gaming run far deeper than hand-eye coordination. When I read these ostensibly positive accounts of video games, they strike me as the equivalent of writing a story about the merits of the great novels and focusing on how reading them can improve your spelling.
+
+- Steven Johnson, *Everything Bad Is Good For You*
+
+---
+
+> But these projects also affirm the dark underbelly of the social media era. The compression of complex ideas into tweetable sound-bites. The victory of sentiment and affect over reason and fact on the internet. The belief that large information archives can produce knowledge of the present, and of history, by exalting data correlation over all other methods of knowledge production. The tendency to privilege technological discourse over all other topics. The celebration of quick-draw contests and hackathons, pursued with an entrepreneur’s short-term attention, as the ultimate means of invention. The silent privileging of those with the time and resources to jump at the invitation to work for free, on no notice, over a period of weeks to curry favor and attention. ...
+
+> As Obama leaves office, the digital tools he quietly celebrated have also hollowed out American life. Surveillance capitalism has made data extraction, aggregation, resale, and speculation the hidden engine of wealth and progress (for those few fortunate enough to pursue rather than to be pursued by it). The ability to create and widely disseminate information as credible and accurate, no matter its relationship to reality. The obsession with immediacy and attention over longevity and conviction. The consolidation of media and information, particularly local media, in the hands of a few large companies with limited commitment to civic good. While the first social media presidency was busy tweeting and Snapchatting, supposedly for public engagement, it did precious little to address the impacts of these and other effects of technology on the American public as matters of public policy.
+
+- Ian Bogost, *[Obama Was Too Good at Social
+  Media](https://www.theatlantic.com/technology/archive/2017/01/did-america-need-a-social-media-president/512405/)*
